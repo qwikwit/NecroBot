@@ -12,19 +12,19 @@
       <Value Profile="(Default)">pw</Value>
     </Setting>
     <Setting Name="DefaultLatitude" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">52.379189</Value>
+      <Value Profile="(Default)">39.949466</Value>
     </Setting>
     <Setting Name="DefaultLongitude" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">4.899431</Value>
+      <Value Profile="(Default)">-75.171892</Value>
     </Setting>
     <Setting Name="DefaultAltitude" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">10</Value>
+      <Value Profile="(Default)">39</Value>
     </Setting>
     <Setting Name="KeepMinIVPercentage" Type="System.Single" Scope="User">
-      <Value Profile="(Default)">85</Value>
+      <Value Profile="(Default)">91</Value>
     </Setting>
     <Setting Name="KeepMinCP" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">1000</Value>
+      <Value Profile="(Default)">1500</Value>
     </Setting>
     <Setting Name="WalkingSpeedInKilometerPerHour" Type="System.Double" Scope="User">
       <Value Profile="(Default)">50</Value>
@@ -60,7 +60,7 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="EvolveAllPokemonAboveIV" Type="System.Boolean" Scope="User">
-      <Value Profile="(Default)">False</Value>
+      <Value Profile="(Default)">True</Value>
     </Setting>
     <Setting Name="EvolveAboveIVValue" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">95</Value>
