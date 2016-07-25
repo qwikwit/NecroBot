@@ -21,7 +21,7 @@
       <Value Profile="(Default)">39</Value>
     </Setting>
     <Setting Name="KeepMinIVPercentage" Type="System.Single" Scope="User">
-      <Value Profile="(Default)">91</Value>
+      <Value Profile="(Default)">95</Value>
     </Setting>
     <Setting Name="KeepMinCP" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">1500</Value>
